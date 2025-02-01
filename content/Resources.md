@@ -5,7 +5,6 @@ A list of resources and/or random interesting things.
 * [Christopher Olah](http://colah.github.io/)
 * [Distill](https://distill.pub/)
 * [Grant Sanderson](https://www.3blue1brown.com/)
-* [Michael Nielsen](https://michaelnielsen.org/)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * [Reducible](https://www.youtube.com/c/Reducible/)
 * [Freya Holmér](https://acegikmo.com/)
