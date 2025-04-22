@@ -10,6 +10,7 @@ A list of resources and/or random interesting things.
 * [Reducible](https://www.youtube.com/c/Reducible/)
 * [Freya Holmér](https://acegikmo.com/)
 * [lcamtuf](https://lcamtuf.substack.com/archive)
+* [Max Slater](https://thenumb.at/)
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 * [The Pudding](https://pudding.cool/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
@@ -21,6 +22,7 @@ A list of resources and/or random interesting things.
 * [Jose M Sallán](https://jmsallan.netlify.app/)
 * [Aatish Bhatia](https://aatishb.com/articles/)
 * [Nathan](https://nathanrooy.github.io/)
+* [Ayan Das](https://ayandas.me/)
 
 ---
 
